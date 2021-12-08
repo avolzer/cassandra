@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cassandra/static/css/main.5f73f583.chunk.css",
-    "main.js": "/cassandra/static/js/main.63067483.chunk.js",
-    "main.js.map": "/cassandra/static/js/main.63067483.chunk.js.map",
+    "main.js": "/cassandra/static/js/main.e0a8f42b.chunk.js",
+    "main.js.map": "/cassandra/static/js/main.e0a8f42b.chunk.js.map",
     "runtime-main.js": "/cassandra/static/js/runtime-main.880d5e35.js",
     "runtime-main.js.map": "/cassandra/static/js/runtime-main.880d5e35.js.map",
     "static/css/2.0a9ec390.chunk.css": "/cassandra/static/css/2.0a9ec390.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.b962256b.chunk.js",
     "static/css/main.5f73f583.chunk.css",
-    "static/js/main.63067483.chunk.js"
+    "static/js/main.e0a8f42b.chunk.js"
   ]
 }
